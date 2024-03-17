@@ -5,8 +5,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaohenriquelopesdiv@gmail.com)
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/_lopezzd)
 
-![João Henriue Lopes' GitHub stats](https://github-readme-stats.vercel.app/api?username=lopezzd&show_icons=true&theme=dracula)
-
+<div style="display: flex">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=lopezzd&theme=dracula" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lopezzd&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</div>
 ### Technologies
 
 <div style="display: inline_block">
