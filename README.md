@@ -9,6 +9,7 @@
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=lopezzd&theme=dracula" />
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lopezzd&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_progress=true" />
 </div>
+
 ### Technologies
 
 <div style="display: inline_block">
