@@ -37,3 +37,8 @@
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
 </div> 
+
+<br/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=6000&pause=1000&width=435&lines=Buscando+novas+oportunidades!!!)](https://git.io/typing-svg)
