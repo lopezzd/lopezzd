@@ -7,7 +7,12 @@
 
 <div style="display: flex">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=lopezzd&theme=dracula" />
+  <br/>
+<br/>
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lopezzd&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_progress=true" />
+  <br/>
+<br/>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6639377f98bce1e3ba092aaa?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
 ### Current studies
